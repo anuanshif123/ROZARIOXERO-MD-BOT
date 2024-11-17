@@ -1,9 +1,9 @@
 {
   "session1": {
-    "SESSION_ID": "levanter_sessionid",
+    "SESSION_ID": "levanter_176b3dfdde208c42e3b562200c95da6f32",
     "PREFIX": "^[.,!]",
-    "SUDO": "0",
-    "STICKER_PACKNAME": "❤️,LyFE",
+    "SUDO": "+916282524515",
+    "STICKER_PACKNAME": "❤️,ROZARIO",
     "ALWAYS_ONLINE": "false",
     "RMBG_KEY": "null",
     "WARN_LIMIT": "3",
@@ -37,7 +37,7 @@
     "PREFIX": "null"
   },
   "session3": {
-    "SESSION_ID": "levanter_sessionid",
+    "SESSION_ID": "levanter_176b3dfdde208c42e3b562200c95da6f32",
     "PREFIX": ".."
   }
 }
